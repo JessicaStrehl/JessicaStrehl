@@ -1,4 +1,5 @@
 ### Hi there 👋
+![original](https://user-images.githubusercontent.com/60192757/177160994-068e1c33-ac9d-46c3-814f-9323e73c9c2b.gif)
 
 <!--
 **JessicaStrehl/JessicaStrehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

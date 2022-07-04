@@ -1,5 +1,5 @@
 ### Hello there 🖖 This is still a work in progress. Stop by later for a more refined result! <img src="https://media4.giphy.com/media/Y4tNeaMKdYKdIAxXIT/giphy.gif?cid=790b7611b214fa6c979043fc7ddc963a85b274ff463a02ce&rid=giphy.gif&ct=s" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://i.pinimg.com/originals/7b/1b/b6/7b1bb67b642f2665a0709a26e57300e1.gif" width="230">
 
 
 

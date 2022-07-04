@@ -1,6 +1,11 @@
 ### Hi there 👋
 ![original](https://user-images.githubusercontent.com/60192757/177160994-068e1c33-ac9d-46c3-814f-9323e73c9c2b.gif)
 
+![d829524ff4c7ee85cbc31e192682a696](https://user-images.githubusercontent.com/60192757/177161759-4ace1498-04e4-413c-9e57-3c62ef95e29c.gif)
+![320c220789c770a9336dd9ab78d9630e](https://user-images.githubusercontent.com/60192757/177161902-9b3ffc8f-2a1e-4864-a85e-97c1352ac60f.gif)
+![a54aa53ca7fdf50b13f409acca688ea8](https://user-images.githubusercontent.com/60192757/177161916-57ce7292-14d9-4c0c-a140-66c4bbecfeb8.gif)
+
+
 <!--
 **JessicaStrehl/JessicaStrehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

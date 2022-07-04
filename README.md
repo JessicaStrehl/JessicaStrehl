@@ -3,7 +3,7 @@
 ![original](https://user-images.githubusercontent.com/60192757/177160994-068e1c33-ac9d-46c3-814f-9323e73c9c2b.gif)
 
 
-### <img src="[https://wifflegif.com/tags/428328-totoro-transparent-gifs?page=0](https://www.google.com/search?q=tororo+gif+transparent&rlz=1C1ONGR_deDE982DE982&source=lnms&tbm=isch&sa=X&ved=2ahUKEwifsdDdrN_4AhVMm_0HHRnGC1AQ_AUoAXoECAEQAw&biw=1280&bih=577&dpr=2#imgrc=B7J7xZ84fhycUM)" width="50"> A little more about me...  
+### <img src="(https://i.gifer.com/1VBI.gif)" width="50"> A little more about me...  
 
 ```python
 #!/usr/bin/python

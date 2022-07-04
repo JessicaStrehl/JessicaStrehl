@@ -6,6 +6,7 @@
 
 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 
@@ -18,7 +19,7 @@
 
 
 
-### <img src="https://68.media.tumblr.com/ff983aa0ce9a7ba2f27dad289a702c9f/tumblr_oppeuhCoYf1sh02g5o1_400.gif" width="50"> Some info about me 🌿
+### <img src="https://68.media.tumblr.com/ff983aa0ce9a7ba2f27dad289a702c9f/tumblr_oppeuhCoYf1sh02g5o1_400.gif" width="50"> Some info about me 
 
 
 ```python

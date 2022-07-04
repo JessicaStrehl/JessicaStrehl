@@ -1,8 +1,4 @@
-### Hello there 👋 This is still a work in progress. Stop by later for a more refined result!
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+### Hello there 🖖 This is still a work in progress. Stop by later for a more refined result!
 
 
 ![original](https://user-images.githubusercontent.com/60192757/177160994-068e1c33-ac9d-46c3-814f-9323e73c9c2b.gif)

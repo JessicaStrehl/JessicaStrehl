@@ -6,7 +6,7 @@
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://user-images.githubusercontent.com/60192757/177162025-2e5068ab-c8e9-4c7f-a056-b5443c4f555c.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 
@@ -43,9 +43,7 @@ me.say_hi()
 ```
 
 
-![d9e433c00876cea61b11a445379e8714](https://user-images.githubusercontent.com/60192757/177162025-2e5068ab-c8e9-4c7f-a056-b5443c4f555c.gif)
-
-## 🔧 Technologies & Tools
+## Handy Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)

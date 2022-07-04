@@ -24,9 +24,6 @@ class Biologist:
 me = Biologist()
 me.say_hi()
 ```
-<img src="https://user-images.githubusercontent.com/60192757/177161902-9b3ffc8f-2a1e-4864-a85e-97c1352ac60f.gif" width="40">
-<img src="https://user-images.githubusercontent.com/60192757/177161916-57ce7292-14d9-4c0c-a140-66c4bbecfeb8.gif" width="40">
-<img src="https://user-images.githubusercontent.com/60192757/177162180-8e995e8c-b5f9-4fb8-befd-fce3e96b9267.gi)" width="40">
 
 ## </h2> Handy Tools
 

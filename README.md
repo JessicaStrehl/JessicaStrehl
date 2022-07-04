@@ -6,7 +6,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/60192757/177162025-2e5068ab-c8e9-4c7f-a056-b5443c4f555c.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://user-images.githubusercontent.com/60192757/177162025-2e5068ab-c8e9-4c7f-a056-b5443c4f555c.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi </b>, I'll be happy to meet you! :)</em>
 
 
 

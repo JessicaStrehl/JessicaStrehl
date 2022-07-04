@@ -4,6 +4,8 @@
 
 ### <img src="https://i.gifer.com/1VBI.gif)](https://68.media.tumblr.com/ff983aa0ce9a7ba2f27dad289a702c9f/tumblr_oppeuhCoYf1sh02g5o1_400.gif" width="50"> A little more about me...  
 
+<img align='center' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://i.pinimg.com/originals/7b/1b/b6/7b1bb67b642f2665a0709a26e57300e1.gif)" width="300">
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-

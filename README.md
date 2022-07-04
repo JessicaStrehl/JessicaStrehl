@@ -1,7 +1,7 @@
 ### Hello there 🖖 This is still a work in progress. Stop by later for a more refined result!
 
 ![original](https://user-images.githubusercontent.com/60192757/177160994-068e1c33-ac9d-46c3-814f-9323e73c9c2b.gif)
-<img align='center' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://i.pinimg.com/originals/7b/1b/b6/7b1bb67b642f2665a0709a26e57300e1.gif)" width="230">
+<img align='right' src="https://i.pinimg.com/originals/7b/1b/b6/7b1bb67b642f2665a0709a26e57300e1.gif" width="230">
 
 ### <img src="[(https://i.gifer.com/1VBI.gif)](https://68.media.tumblr.com/ff983aa0ce9a7ba2f27dad289a702c9f/tumblr_oppeuhCoYf1sh02g5o1_400.gif)" width="50"> A little more about me...  
 

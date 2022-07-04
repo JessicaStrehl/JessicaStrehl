@@ -2,7 +2,7 @@
 
 ![original](https://user-images.githubusercontent.com/60192757/177160994-068e1c33-ac9d-46c3-814f-9323e73c9c2b.gif)
 
-![giphy (1)](https://user-images.githubusercontent.com/60192757/177162250-1d1e56af-af28-4453-9e4d-68c1864b3781.gif)
+<a href="https://user-images.githubusercontent.com/60192757/177162250-1d1e56af-af28-4453-9e4d-68c1864b3781.gif" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ```python
 #!/usr/bin/python

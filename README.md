@@ -7,7 +7,7 @@
 <img align='left' src="https://i.pinimg.com/originals/d1/02/d6/d102d6c1f5c4997c7b268b3eda173e86.gif" width="300">
 
 
-### <img src="https://68.media.tumblr.com/ff983aa0ce9a7ba2f27dad289a702c9f/tumblr_oppeuhCoYf1sh02g5o1_400.gif" width="50"> Some info about me 
+### <img align='left', src="https://68.media.tumblr.com/ff983aa0ce9a7ba2f27dad289a702c9f/tumblr_oppeuhCoYf1sh02g5o1_400.gif" width="50"> Some info about me 
 
 
 ```python

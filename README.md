@@ -26,6 +26,16 @@ me.say_hi()
 
 
 ![d9e433c00876cea61b11a445379e8714](https://user-images.githubusercontent.com/60192757/177162025-2e5068ab-c8e9-4c7f-a056-b5443c4f555c.gif)
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+
 ![d829524ff4c7ee85cbc31e192682a696](https://user-images.githubusercontent.com/60192757/177161759-4ace1498-04e4-413c-9e57-3c62ef95e29c.gif)
 ![320c220789c770a9336dd9ab78d9630e](https://user-images.githubusercontent.com/60192757/177161902-9b3ffc8f-2a1e-4864-a85e-97c1352ac60f.gif)
 ![a54aa53ca7fdf50b13f409acca688ea8](https://user-images.githubusercontent.com/60192757/177161916-57ce7292-14d9-4c0c-a140-66c4bbecfeb8.gif)

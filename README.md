@@ -26,7 +26,7 @@ me.say_hi()
 ```
 
 
-## </h2> Handy Tools
+## </h2><img src="https://user-images.githubusercontent.com/60192757/177161902-9b3ffc8f-2a1e-4864-a85e-97c1352ac60f.gif" width="40"> Handy Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)

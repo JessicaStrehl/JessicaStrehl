@@ -3,7 +3,7 @@
 ![original](https://user-images.githubusercontent.com/60192757/177160994-068e1c33-ac9d-46c3-814f-9323e73c9c2b.gif)
 
 
-### <img src="[[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://user-images.githubusercontent.com/60192757/177162250-1d1e56af-af28-4453-9e4d-68c1864b3781.gif](https://apption.co/apps/81))" width="50"> A little more about me...  
+### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://apption.co/embeds/cdz381)" width="50"> A little more about me...  
 
 ```python
 #!/usr/bin/python

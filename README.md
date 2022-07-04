@@ -29,7 +29,7 @@ me.say_hi()
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=202020)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1c4966)
-![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=Julia&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=Julia&logoColor=white&color=7e4eac)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
